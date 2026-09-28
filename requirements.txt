@@ -1,0 +1,6 @@
+crewai
+faiss-cpu
+langchain
+chromadb
+pypdf
+pytest
